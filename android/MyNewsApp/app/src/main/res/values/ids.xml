@@ -1,0 +1,5 @@
+<resources>
+    <item name="menu_action1" type="id"/>
+    <item name="menu_action2" type="id"/>
+    <item name="menu_action3" type="id"/>
+</resources>

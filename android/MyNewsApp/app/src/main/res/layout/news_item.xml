@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/scan_border">
+        <RelativeLayout
+            android:id="@+id/top_text"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/news_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="News Headline"
+            android:textSize="18sp"
+            android:textColor="#525457"
+            android:letterSpacing="0.02"
+            android:lineSpacingExtra="17sp"
+            android:paddingTop="10dp"
+            android:paddingLeft="5dp"
+            android:textStyle="bold"
+            android:layout_alignBaseline="@+id/news_update"
+            android:layout_alignBottom="@+id/news_update"
+            android:layout_alignParentStart="true"
+            android:layout_toStartOf="@+id/news_update" />
+            <TextView
+                android:id="@+id/news_update"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textColor="#757679"
+                android:letterSpacing="0.02"
+                android:lineSpacingExtra="10sp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:paddingLeft="5dp"
+                android:layout_alignParentRight="true"
+                android:text="10 min"/>
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/news_subtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:textColor="#757679"
+            android:letterSpacing="0.02"
+            android:lineSpacingExtra="10sp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="5dp"
+            android:text="breaking news deatils are here"/>
+</LinearLayout>

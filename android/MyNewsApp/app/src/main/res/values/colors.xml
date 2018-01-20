@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="action_bar_background_color">#00a8e8</color>
+    <color name="list_divider_color">#048ec7</color>
+    <color name="empty_list_text_color">#555</color>
+    <color name="definition_text_color">#d3d3d3</color>
+    <color name="header_item_text_color">#01baef</color>
+    <color name="blue_bg_start">#2062ad</color>
+    <color name="blue_bg_end">#2062ad</color>
+    <color name="alert_button">#1a60ac</color>
+    <color name="red_bg_start">#cc3127</color>
+    <color name="red_bg_end">#ee3c23</color>
+    <color name="gray_bg_start">#525457</color>
+    <color name="gary_bg_end">#b2b2b2</color>
+    <color name="light_gray">#eeedee</color>
+    <color name="spinner_bg">#f3f3f3</color>
+    <color name="border_color">#eeedee</color>
+    <color name="list_background_color_highlight">#00ffffff</color>
+    <color name="white_text_color">#ffffff</color>
+
+    <color name="tab_text_color">#d3d3d3</color>
+    <color name="tab_indicator_color">#ee3c23</color>
+    <!--Indigo 500-->
+    <color name="primary_500">#3F51B5</color>
+    <!--Indigo 700-->
+    <color name="primary_700">#303F9F</color>
+    <!--Pink 500-->
+    <color name="accent_500">#E91E63</color>
+    <!--Pink 700-->
+    <color name="accent_700">#C2185B</color>
+    <color name="black_trans80">#33000000</color>
+
+    <color name="indicator_unselected">#4D000000</color>
+
+
+    <color name="blue_grey">#455A64</color>
+    <color name="red">#F44336</color>
+    <color name="pink">#E91E63</color>
+    <color name="purple">#9C27B0</color>
+    <color name="deep_purple">#673AB7</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="blue">#2196F3</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="teal">#009688</color>
+    <color name="green">#4CAF50</color>
+    <color name="light_green">#8BC34A</color>
+    <color name="lime">#CDDC39</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="amber">#FFC107</color>
+    <color name="orange">#FF9800</color>
+    <color name="deep_orange">#FF5722</color>
+    <color name="brown">#795548</color>
+    <color name="grey">#E0E0E0</color>
+    <color name="bg_light">#FAFAFA</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="cyan_50">#E0F7FA</color>
+    <color name="amber_50">#FFF8E1</color>
+    <color name="purple_50">#F3E5F5</color>
+</resources>
